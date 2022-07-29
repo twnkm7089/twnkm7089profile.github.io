@@ -10,7 +10,24 @@ h1 {
 div {
     margin: 20px;
 }
+
+/*프로필 사진 관련*/
 #my_pic {
     float: left;
     margin-right: 20px;
+}
+
+/*관심사 관련*/
+.interestList {
+    display: inline-block;
+    border: 1px solid gray;
+    padding: 10px;
+    width: 300px;
+}
+.interestList h3 {
+    text-align: center;
+}
+.interestList ul {
+    list-style-type: none;
+    padding: 10px;
 }
