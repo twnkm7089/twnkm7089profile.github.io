@@ -1,0 +1,16 @@
+body {
+    background: white;
+    color: black;
+}
+h1 {
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+div {
+    margin: 20px;
+}
+#my_pic {
+    float: left;
+    margin-right: 20px;
+}
